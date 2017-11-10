@@ -1,0 +1,7 @@
+DebugMessage.pri
+DebugMessage_VERSION.h
+.qmake.stash
+Debug_Message.pro.user
+Debug_Message_VERSION.h
+Makefile
+build/
