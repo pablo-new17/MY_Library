@@ -1,0 +1,5 @@
+.qmake.stash
+Makefile
+Singleton.pro.user
+Singleton_VERSION.h
+build/
